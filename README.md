@@ -1,2 +1,2 @@
 # Spamclassifer
-spamdetector
+detect spam masseges 
